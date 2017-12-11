@@ -8,6 +8,6 @@ public class Main {
 		s.getName();
 		System.out.println(s.getName());
 		System.out.println();
-		
+		µÚÈı·½
 	}
 }
