@@ -8,6 +8,10 @@ public class Main {
 		s.getName();
 		System.out.println(s.getName());
 		System.out.println();
+
 		第三方
+
+		发的规范房
+
 	}
 }
